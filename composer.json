@@ -1,0 +1,11 @@
+{
+    "name": "glaubinix/another-repo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephan Vock",
+            "email": "stephan.vock@gmail.com"
+        }
+    ],
+    "require": {}
+}
