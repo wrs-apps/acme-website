@@ -7,5 +7,7 @@
             "email": "stephan.vock@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "api-platform/core": "2.3.1"
+    }
 }
