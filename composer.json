@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "api-platform/core": "2.3.1"
+        "api-platform/core": "2.3.6"
     }
 }
